@@ -75,9 +75,6 @@ Energy of Celegans_Metabolic_453node.csv with belief type 1: -1012.0
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-📝 License
-This project is MIT licensed.
-
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Yousof Davamkar
 </p>
